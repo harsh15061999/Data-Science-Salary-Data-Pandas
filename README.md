@@ -2,7 +2,6 @@
 
 ![Data Salary](https://github.com/user-attachments/assets/23350465-7854-481d-a2f9-10f48368e1e7)
 
-
 The goal of this exploratory data analysis (EDA) project is to gain a deeper understanding of the data science salary landscape. The analysis aims to answer questions such as:
 What is the distribution of data science salaries, and what are the average salary ranges?
 Which factors, such as location, industry, level of experience, and programming languages, have the greatest impact on salary levels?
